@@ -45,51 +45,27 @@ export default function ImageMasonry() {
 
 const itemData = [
   {
-    img: "../../public/work_1_md.jpg.webp",
-    title: "Fern",
+    img: "../../public/Signup.png",
+    title: "Sign up",
   },
   {
-    img: "../../public/work_2_md.jpg.webp",
-    title: "Snacks",
+    img: "../../public/home.png",
+    title: "Home",
   },
   {
-    img: "../../public/work_3_md.jpg.webp",
-    title: "Mushrooms",
+    img: "../../public/signin.png",
+    title: "Sign in",
   },
   {
-    img: "../../public/work_4_full.jpg.webp",
-    title: "Tower",
+    img: "../../public/courses.png",
+    title: "courses",
   },
   {
-    img: "../../public/work_5_md.jpg.webp",
-    title: "Sea star",
+    img: "../../public/about.png",
+    title: "about",
   },
   {
-    img: "../../public/work_6_md.jpg.webp",
-    title: "Honey",
-  },
-  {
-    img: "../../public/work_7_a_md.jpg.webp",
-    title: "Basketball",
-  },
-  {
-    img: "../../public/work_8_md.jpg.webp",
-    title: "Breakfast",
-  },
-  {
-    img: "../../public/work_9_a_md.jpg.webp",
-    title: "Tree",
-  },
-  {
-    img: "../../public/work_10_a_md.jpg.webp",
-    title: "Burger",
-  },
-  {
-    img: "../../public/work_11_a_md.jpg.webp",
-    title: "Camera",
-  },
-  {
-    img: "../../public/work_12_md.jpg.webp",
-    title: "Coffee",
+    img: "../../public/who.png",
+    title: "who",
   },
 ];

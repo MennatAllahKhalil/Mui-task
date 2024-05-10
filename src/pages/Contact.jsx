@@ -12,7 +12,7 @@ import { OutlinedInput } from "@mui/material";
 import { TextareaAutosize as BaseTextareaAutosize } from "@mui/base/TextareaAutosize";
 import { styled } from "@mui/system";
 
-const ContactComponent = () => {
+const Contact = () => {
   const blue = {
     100: "#DAECFF",
     200: "#b6daff",
