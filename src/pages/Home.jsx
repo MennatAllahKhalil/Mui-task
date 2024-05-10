@@ -1,6 +1,6 @@
 import React from "react";
 import AppBar from "../components/AppBar";
-import backgroundImage from "../../public/background.jpg"; // Import your background image
+import backgroundImage from "../../public/1.jpg"; // Import your background image
 import { Box, IconButton } from "@mui/material";
 import ArrowUpwardOutlinedIcon from "@mui/icons-material/ArrowUpwardOutlined";
 

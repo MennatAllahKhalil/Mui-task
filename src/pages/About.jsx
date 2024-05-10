@@ -1,7 +1,7 @@
 import React from "react";
 import { Grid, Button, Typography, Stack, Box } from "@mui/material";
 
-const AboutComponent = () => {
+const About = () => {
   return (
     <>
       <Box>
@@ -22,7 +22,7 @@ const AboutComponent = () => {
         {/* Photo */}
         <Grid item xs={12} sm={7}>
           <img
-            src="../../public/MyPhtot.webp"
+            src="../../public/2.jpg"
             alt="Your Photo"
             style={{ width: "100%", borderRadius: "8px" }}
           />
@@ -42,11 +42,12 @@ const AboutComponent = () => {
             paragraph
             sx={{ fontSize: "30px", fontWeight: "bold" }}
           >
-            We can make it together
+            Hi there!
           </Typography>
           <Typography variant="body1" paragraph>
-            Far far away, behind the word mountains, far from the countries
-            Vokalia and Consonantia, there{" "}
+            I'm MennatAllah, a graduate from the Faculty of Languages and
+            Translation with a passion for education and design. Currently, I'm
+            diving into the world of{" "}
             <Typography
               component="span"
               sx={{
@@ -58,14 +59,15 @@ const AboutComponent = () => {
                 },
               }}
             >
-              live the blind
+              web and user interface design at ITI
             </Typography>{" "}
-            texts. A small river named Duden flows by their place and supplies
-            it with the necessary regelialia.
+            honing my skills to create seamless digital experiences.
           </Typography>
           <Typography variant="body1" paragraph>
-            It is a paradisematic country, in which roasted parts of sentences
-            fly into your mouth.
+            I love sharing knowledge and empowering others to reach their full
+            potential. When I'm not crafting intuitive user interfaces, you can
+            find me exploring new teaching methods or sketching out my next
+            design idea. Let's connect and create something amazing together!
           </Typography>
           {/* Button */}
           <Button
